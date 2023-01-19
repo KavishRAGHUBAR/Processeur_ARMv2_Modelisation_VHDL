@@ -1,0 +1,91 @@
+[*]
+[*] GTKWave Analyzer v3.3.61 (w)1999-2014 BSI
+[*] Sat Jan 14 22:28:04 2023
+[*]
+[dumpfile] "/home/etudiant/Desktop/VLSIv2/Projet/TB/testv15.vcd"
+[dumpfile_mtime] "Sat Jan 14 21:56:36 2023"
+[dumpfile_size] 80759
+[savefile] "/home/etudiant/Desktop/VLSIv2/Projet/TB/Test_goodv15.gtkw"
+[timestart] 2400000
+[size] 1440 797
+[pos] -51 -51
+*-22.893600 16240000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] arm_core_i.
+[treeopen] arm_core_i.decod_i.
+[sst_width] 229
+[signals_width] 162
+[sst_expanded] 1
+[sst_vpaned_height] 208
+@28
+ck
+reset_n
+@22
+arm_core_i.if_ir[31:0]
+@28
+[color] 2
+arm_core_i.decod_i.and_i
+[color] 2
+arm_core_i.decod_i.eor_i
+[color] 2
+arm_core_i.decod_i.sub_i
+[color] 2
+arm_core_i.decod_i.rsb_i
+[color] 2
+arm_core_i.decod_i.add_i
+[color] 2
+arm_core_i.decod_i.adc_i
+[color] 2
+arm_core_i.decod_i.sbc_i
+@22
+[color] 3
+arm_core_i.decod_i.banc_de_registre.inval_adr1[3:0]
+@24
+arm_core_i.decod_i.banc_de_registre.reg_pc[31:0]
+arm_core_i.decod_i.banc_de_registre.reg_rd1[31:0]
+arm_core_i.decod_i.banc_de_registre.reg_rd2[31:0]
+arm_core_i.decod_i.banc_de_registre.reg_rd3[31:0]
+@22
+[color] 3
+arm_core_i.decod_i.banc_de_registre.radr1[3:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.radr2[3:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.radr3[3:0]
+arm_core_i.decod_i.banc_de_registre.wadr1[3:0]
+@25
+arm_core_i.decod_i.banc_de_registre.wdata1[31:0]
+@28
+arm_core_i.decod_i.banc_de_registre.wen1
+@24
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r0[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r1[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r2[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r3[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r4[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r5[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r6[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r7[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r8[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r9[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r10[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r11[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r12[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r13[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.r14[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

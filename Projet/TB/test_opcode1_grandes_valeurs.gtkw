@@ -1,0 +1,68 @@
+[*]
+[*] GTKWave Analyzer v3.3.61 (w)1999-2014 BSI
+[*] Mon Jan 16 18:11:52 2023
+[*]
+[dumpfile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/testv17b.vcd"
+[dumpfile_mtime] "Sun Jan 15 15:31:07 2023"
+[dumpfile_size] 80702
+[savefile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/test_opcode1_grandes_valeurs.gtkw"
+[timestart] 0
+[size] 1920 977
+[pos] -96 -96
+*-21.743740 42000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] arm_core_i.
+[treeopen] arm_core_i.decod_i.
+[sst_width] 229
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 271
+@28
+arm_core_i.ck
+@22
+[color] 2
+arm_core_i.if_ir[31:0]
+arm_core_i.decod_i.dec2exe.din[126:0]
+arm_core_i.decod_i.dec2exe.dout[126:0]
+@28
+arm_core_i.decod_i.dec2exe.pop
+arm_core_i.decod_i.dec2exe.push
+@22
+arm_core_i.decod_i.banc_de_registre.inval_adr1[3:0]
+@28
+arm_core_i.decod_i.banc_de_registre.inval1
+@24
+arm_core_i.exec_i.exe_res[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.pc[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r0[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r1[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r2[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r3[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r4[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r5[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r6[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r7[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r8[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r9[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r10[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r11[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r12[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r13[31:0]
+[color] 3
+arm_core_i.decod_i.banc_de_registre.r14[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

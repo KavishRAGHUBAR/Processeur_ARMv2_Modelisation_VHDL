@@ -1,0 +1,93 @@
+[*]
+[*] GTKWave Analyzer v3.3.61 (w)1999-2014 BSI
+[*] Mon Jan 16 18:10:01 2023
+[*]
+[dumpfile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/test_opcode2.vcd"
+[dumpfile_mtime] "Mon Jan 16 17:24:00 2023"
+[dumpfile_size] 77055
+[savefile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/opcode2_test.gtkw"
+[timestart] 0
+[size] 1920 977
+[pos] -101 -101
+*-22.403545 26040000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] arm_core_i.
+[treeopen] arm_core_i.decod_i.
+[sst_width] 229
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 270
+@28
+ck
+@22
+arm_core_i.if_ir[31:0]
+@28
+arm_core_i.decod_i.dec_alu_cmd[1:0]
+@22
+arm_core_i.exec_i.op1[31:0]
+arm_core_i.decod_i.dec_op2[31:0]
+@28
+[color] 2
+arm_core_i.decod_i.dec_comp_op2
+@22
+arm_core_i.exec_i.op2[31:0]
+arm_core_i.exec_i.exe_res[31:0]
+@28
+arm_core_i.exec_i.exe_c
+arm_core_i.exec_i.exe_z
+arm_core_i.exec_i.exe_n
+arm_core_i.exec_i.exe_v
+@24
+[color] 2
+arm_core_i.decod_i.banc_de_registre.pc[31:0]
+@22
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r0[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r1[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r2[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r3[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r4[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r5[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r6[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r7[31:0]
+@28
+[color] 7
+arm_core_i.exec_i.dec_flag_wb
+[color] 7
+arm_core_i.exec_i.dec_exe_wb
+@23
+arm_core_i.exec_i.exe_dest[3:0]
+@22
+arm_core_i.decod_i.banc_de_registre.inval_adr1[3:0]
+@28
+[color] 2
+arm_core_i.decod_i.reg_vv_sig
+[color] 3
+arm_core_i.decod_i.teq_i
+[color] 3
+arm_core_i.decod_i.cmp_i
+[color] 3
+arm_core_i.decod_i.orr_i
+[color] 3
+arm_core_i.decod_i.mvn_i
+[color] 3
+arm_core_i.decod_i.bic_i
+[color] 3
+arm_core_i.decod_i.cmn_i
+[color] 3
+arm_core_i.decod_i.tst_i
+[color] 3
+arm_core_i.decod_i.mov_i
+arm_core_i.decod_i.t1_fetch
+arm_core_i.decod_i.t2_fetch
+arm_core_i.decod_i.t1_run
+arm_core_i.decod_i.t2_run
+arm_core_i.decod_i.t3_run
+[pattern_trace] 1
+[pattern_trace] 0

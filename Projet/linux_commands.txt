@@ -1,0 +1,15 @@
+Here will be a list of commands that we use often, it will be useful when downloading the project on different devices
+
+First of all how to generate the a.out out of the test.s / test.asm which is located in the Asm folder :
+
+	arm-linux-gnu-as test.s
+
+next up we need to do a make all from the TB folder and then the makefile will do the job for us :
+
+	make all
+
+finally we need to associate our a.out with the main_tb. we can do so by using this command :
+
+	./main_tb ./Asm/a.out --vcd=testv3.vcd
+
+

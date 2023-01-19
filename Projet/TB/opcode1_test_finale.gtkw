@@ -1,0 +1,181 @@
+[*]
+[*] GTKWave Analyzer v3.3.61 (w)1999-2014 BSI
+[*] Mon Jan 16 18:46:44 2023
+[*]
+[dumpfile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/testv20.vcd"
+[dumpfile_mtime] "Mon Jan 16 14:39:44 2023"
+[dumpfile_size] 78530
+[savefile] "/users/enseig/raghubar/Bureau/VLSIv2/Projet/TB/opcode1_test_finale.gtkw"
+[timestart] 0
+[size] 1280 987
+[pos] 1920 0
+*-23.615564 20430000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] arm_core_i.
+[treeopen] arm_core_i.decod_i.
+[sst_width] 229
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 273
+@28
+ck
+@22
+arm_core_i.if_ir[31:0]
+arm_core_i.decod_i.dec2exe.din[126:0]
+arm_core_i.decod_i.dec2exe.dout[126:0]
+@28
+arm_core_i.decod_i.dec2if_fifo.push
+arm_core_i.decod_i.dec2if_fifo.pop
+@24
+[color] 2
+arm_core_i.decod_i.banc_de_registre.pc[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r0[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r1[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r2[31:0]
+@c00024
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r3[31:0]
+@28
+(0)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(1)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(2)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(3)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(4)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(5)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(6)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(7)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(8)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(9)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(10)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(11)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(12)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(13)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(14)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(15)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(16)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(17)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(18)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(19)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(20)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(21)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(22)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(23)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(24)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(25)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(26)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(27)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(28)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(29)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(30)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+(31)arm_core_i.decod_i.banc_de_registre.r3[31:0]
+@1401200
+-group_end
+@24
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r4[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r5[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r6[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r7[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r8[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r9[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r10[31:0]
+@22
+arm_core_i.exec_i.dec_op1[31:0]
+arm_core_i.exec_i.dec_op2[31:0]
+@28
+arm_core_i.exec_i.dec_comp_op1
+arm_core_i.exec_i.dec_comp_op2
+@22
+arm_core_i.exec_i.op1[31:0]
+arm_core_i.exec_i.op2[31:0]
+arm_core_i.exec_i.exe_res[31:0]
+@29
+[color] 3
+arm_core_i.decod_i.and_i
+@28
+[color] 3
+arm_core_i.decod_i.eor_i
+[color] 3
+arm_core_i.decod_i.sub_i
+[color] 3
+arm_core_i.decod_i.rsb_i
+[color] 3
+arm_core_i.decod_i.add_i
+[color] 3
+arm_core_i.decod_i.adc_i
+[color] 3
+arm_core_i.decod_i.sbc_i
+[color] 3
+arm_core_i.decod_i.rsc_i
+arm_core_i.decod_i.banc_de_registre.inval1
+@22
+arm_core_i.decod_i.banc_de_registre.inval_adr1[3:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.pc[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r0[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r1[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r2[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r3[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r4[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r5[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r6[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r7[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r8[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r9[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r10[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r11[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r12[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r13[31:0]
+[color] 2
+arm_core_i.decod_i.banc_de_registre.r14[31:0]
+[color] 4
+arm_core_i.decod_i.banc_de_registre.radr1[3:0]
+[color] 4
+arm_core_i.decod_i.banc_de_registre.radr2[3:0]
+[color] 4
+arm_core_i.decod_i.banc_de_registre.radr3[3:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.reg_rd1[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.reg_rd2[31:0]
+[color] 7
+arm_core_i.decod_i.banc_de_registre.reg_rd3[31:0]
+@28
+arm_core_i.decod_i.banc_de_registre.wen1
+@22
+arm_core_i.decod_i.banc_de_registre.wadr1[3:0]
+arm_core_i.decod_i.banc_de_registre.wdata1[31:0]
+@28
+arm_core_i.decod_i.banc_de_registre.vr0
+arm_core_i.decod_i.banc_de_registre.vr1
+arm_core_i.decod_i.banc_de_registre.vr2
+arm_core_i.decod_i.banc_de_registre.vr3
+arm_core_i.decod_i.banc_de_registre.vr4
+arm_core_i.decod_i.banc_de_registre.vr5
+arm_core_i.decod_i.banc_de_registre.vr6
+arm_core_i.decod_i.banc_de_registre.vr7
+arm_core_i.decod_i.banc_de_registre.vr8
+[pattern_trace] 1
+[pattern_trace] 0
