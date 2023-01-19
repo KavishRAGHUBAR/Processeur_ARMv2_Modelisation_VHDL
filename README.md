@@ -1,3 +1,3 @@
 # VLSI-ARMv2
 VLSI ARMv2 en VHDL
-Binome : Kavish RAGHUBAR et Metig SENEVIRATNE
+: Binome : Kavish RAGHUBAR et Metig SENEVIRATNE
