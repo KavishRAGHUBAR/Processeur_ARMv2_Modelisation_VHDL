@@ -1,0 +1,5 @@
+This folder is a mess, so in order to find .vcd files of interest, which can be viewed by GTKWave, it is recommended to choose newer versions of testvX.
+
+Example, choose TestV12 over Testv3. Some are renamed properly and have a pretty explicit name about what the testbench was about.
+Eventually, it is possible to load a "test.s" file containing one or more Arm instructions, into the a.out and merge with the testbench to generate a new
+tb.vcd.
